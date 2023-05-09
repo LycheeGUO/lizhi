@@ -191,6 +191,9 @@ sections:
         postcode: '518107'
         country: China
         country_code: CN
+      coordinates:
+        latitude: '38.998005'
+        longitude: '117.314430'
       directions: C807, Gaoke
   #  office_hours:
  #       - 'Monday 10:00 to 13:00'
