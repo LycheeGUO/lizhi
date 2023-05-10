@@ -185,16 +185,16 @@ sections:
       phone: +86 188 0229 3110
    #   appointment_url: 'https://calendly.com'
       address:
-        street: No.5 Kelin Road
-        city: Shenzhen
-        region: Guangdong
-        postcode: '518107'
-        country: China
+        street: Shatin, NT
+        city: Hong Kong SAR
+        region: Hong Kong SAR
+        postcode: '999077'
+        country: The People's Republic of China
         country_code: CN
       coordinates:
         latitude: '22.41567'
         longitude: '114.20751'
-      directions: C807, Gaoke
+      directions: Sino Building, The Chinese University of Hong Kong
   #  office_hours:
  #       - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
