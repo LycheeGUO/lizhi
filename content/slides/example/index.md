@@ -26,6 +26,8 @@ Social isolation refers to people being disconnected from society and lacking em
 * Increases the risk of physical health problems such as heart disease and stroke
 * Can lead to a decrease in quality of life
 
+- - -
+
 ### How to reduce social isolation?
 
 * Participate in community activities
@@ -44,6 +46,8 @@ Loneliness refers to people feeling disconnected from their environment and soci
 * Can lead to a decrease in quality of life
 * May affect physical health, such as lowering immune system function
 
+- - -
+
 ### How to reduce loneliness?
 
 * Attend social activities
@@ -57,6 +61,8 @@ Loneliness refers to people feeling disconnected from their environment and soci
 * Increases the risk of illness such as cardiovascular disease and stroke
 * Can lead to a decrease in quality of life
 * May increase the risk of death
+
+- - -
 
 ### How to maintain good health?
 
@@ -77,4 +83,20 @@ Loneliness refers to people feeling disconnected from their environment and soci
 
 * **Behavioral factors:** Social isolation and loneliness can lead to unhealthy behaviors, such as overeating, smoking, and alcohol abuse. These behaviors can contribute to the development of chronic diseases such as heart disease and cancer.
 * **Sleep disturbances:** Social isolation and loneliness can lead to sleep disturbances, such as insomnia and daytime sleepiness. Poor sleep quality and quantity have been linked to a variety of health problems, including hypertension, diabetes, and depression.
+
+- - -
+
+## Additional Mechanisms
+
 * **Cognitive decline:** Social isolation and loneliness have been linked to cognitive decline in older adults. Cognitive decline can lead to the development of dementia and other age-related cognitive disorders.
+
+- - -
+
+###### References
+
+* Cacioppo, J. T., Hawkley, L. C., & Thisted, R. A. (2010). Perceived social isolation makes me sad: 5-year cross-lagged analyses of loneliness and depressive symptomatology in the Chicago Health, Aging, and Social Relations Study. Psychology and aging, 25(2), 453-463.
+* Holt-Lunstad, J., Smith, T. B., Baker, M., Harris, T., & Stephenson, D. (2015). Loneliness and social isolation as risk factors for mortality: A meta-analytic review. Perspectives on psychological science, 10(2), 227-237.
+* Hawkley, L. C., & Cacioppo, J. T. (2010). Loneliness matters: A theoretical and empirical review of consequences and mechanisms. Annals of behavioral medicine, 40(2), 218-227.
+* Berkman, L. F., & Kawachi, I. (Eds.). (2014). Social epidemiology. Oxford University Press.
+* Seeman, T. E., Lusignolo, T. M., Albert, M., & Berkman, L. (2001). Social relationships, social support, and patterns of cognitive aging in healthy, high-functioning older adults: MacArthur studies of successful aging. Health Psychology, 20(4), 243-255.
+* Pressman, S. D., Cohen, S., Miller, G. E., Barkin, A., Rabin, B. S., Treanor, J. J., & Turner, R. B. (2005). Loneliness, social network size, and immune response to influenza vaccination in college freshmen. Health psychology, 24(3), 297-306.
