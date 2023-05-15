@@ -94,18 +94,14 @@ Loneliness refers to people feeling disconnected from their environment and soci
 
 ###### References
 
-Cacioppo, J. T., Hawkley, L. C., & Thisted, R. A. (2010). Perceived social isolation makes me sad: 5-year cross-lagged analyses of loneliness and depressive symptomatology in the Chicago Health, Aging, and Social Relations Study. Psychology and aging, 25(2), 453-463.
-
-Holt-Lunstad, J., Smith, T. B., Baker, M., Harris, T., & Stephenson, D. (2015). Loneliness and social isolation as risk factors for mortality: A meta-analytic review. Perspectives on psychological science, 10(2), 227-237.
-
-Hawkley, L. C., & Cacioppo, J. T. (2010). Loneliness matters: A theoretical and empirical review of consequences and mechanisms. Annals of behavioral medicine, 40(2), 218-227.
+* ###### Cacioppo, J. T., Hawkley, L. C., & Thisted, R. A. (2010). Perceived social isolation makes me sad: 5-year cross-lagged analyses of loneliness and depressive symptomatology in the Chicago Health, Aging, and Social Relations Study. Psychology and aging, 25(2), 453-463.
+* ###### Holt-Lunstad, J., Smith, T. B., Baker, M., Harris, T., & Stephenson, D. (2015). Loneliness and social isolation as risk factors for mortality: A meta-analytic review. Perspectives on psychological science, 10(2), 227-237.
+* ###### Hawkley, L. C., & Cacioppo, J. T. (2010). Loneliness matters: A theoretical and empirical review of consequences and mechanisms. Annals of behavioral medicine, 40(2), 218-227.
 
 - - -
 
 ###### References
 
-Berkman, L. F., & Kawachi, I. (Eds.). (2014). Social epidemiology. Oxford University Press.
-
-Seeman, T. E., Lusignolo, T. M., Albert, M., & Berkman, L. (2001). Social relationships, social support, and patterns of cognitive aging in healthy, high-functioning older adults: MacArthur studies of successful aging. Health Psychology, 20(4), 243-255. 
-
-Pressman, S. D., Cohen, S., Miller, G. E., Barkin, A., Rabin, B. S., Treanor, J. J., & Turner, R. B. (2005). Loneliness, social network size, and immune response to influenza vaccination in college freshmen. Health psychology, 24(3), 297-306.
+* ###### Berkman, L. F., & Kawachi, I. (Eds.). (2014). Social epidemiology. Oxford University Press.
+* ###### Seeman, T. E., Lusignolo, T. M., Albert, M., & Berkman, L. (2001). Social relationships, social support, and patterns of cognitive aging in healthy, high-functioning older adults: MacArthur studies of successful aging. Health Psychology, 20(4), 243-255. 
+* ###### Pressman, S. D., Cohen, S., Miller, G. E., Barkin, A., Rabin, B. S., Treanor, J. J., & Turner, R. B. (2005). Loneliness, social network size, and immune response to influenza vaccination in college freshmen. Health psychology, 24(3), 297-306.
