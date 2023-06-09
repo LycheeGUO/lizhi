@@ -55,8 +55,8 @@ sections:
           company_url: 'https://www.szbl.ac.cn/'
           company_logo: org-lab
           location: Shenzhen
-          date_start: '2022-04-08'
-          date_end: ''
+          date_start: '2022-05-01'
+          date_end: '2023-06-01'
           description: |2-
               Responsibilities include:
               * Cognitive Assessment
