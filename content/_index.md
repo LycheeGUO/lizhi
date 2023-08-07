@@ -181,7 +181,7 @@ sections:
  #    text: |-
  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
  #     # Contact (add or remove contact options as necessary)
-      email: glz1997@tju.edu.cn
+      email: guolz@link.cuhk.edu.hk/ glz1997@tju.edu.cn
       phone: +86 188 0229 3110
    #   appointment_url: 'https://calendly.com'
       address:
@@ -194,7 +194,7 @@ sections:
       coordinates:
         latitude: '22.41567'
         longitude: '114.20751'
-      directions: Sino Building, The Chinese University of Hong Kong
+      directions: Esther Lee Building 425, The Chinese University of Hong Kong
   #  office_hours:
  #       - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
