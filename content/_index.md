@@ -192,8 +192,8 @@ sections:
         country: The People's Republic of China
         country_code: CN
       coordinates:
-        latitude: '22.41567'
-        longitude: '114.20751'
+        latitude: '22.414121966034276'
+        longitude: '114.2083301337338'
       directions: Esther Lee Building 425, The Chinese University of Hong Kong
   #  office_hours:
  #       - 'Monday 10:00 to 13:00'
