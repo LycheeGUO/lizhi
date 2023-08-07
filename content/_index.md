@@ -182,7 +182,7 @@ sections:
  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
  #     # Contact (add or remove contact options as necessary)
       email: guolz@link.cuhk.edu.hk/ glz1997@tju.edu.cn
-      phone: +86 188 0229 3110
+      phone: +852 55757183
    #   appointment_url: 'https://calendly.com'
       address:
         street: Shatin, NT
