@@ -45,8 +45,8 @@ sections:
           company_url: 'https://www.cuhk.edu.hk/'
           company_logo: org-cuhk
           location: Hongkong SAR, CN
-          date_start: 'Present'
-          date_end: '2027-06-30(expected)'
+          date_start: '2023-08-01'
+          date_end: 'Present'
           description:  |2-
               * Major: Psychology
               * Supervisor: Professor Chan Sui Yin, Agnes
