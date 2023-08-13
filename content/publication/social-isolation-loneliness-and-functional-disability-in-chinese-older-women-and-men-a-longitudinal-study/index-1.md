@@ -1,39 +1,39 @@
 ---
-title: "Social isolation, loneliness and functional disability in Chinese older
-  women and men: a longitudinal study "
+title: "Social isolation and depression onset among middle-aged and older adults
+  in China: Moderating effects of education and gender differences"
 publication_types:
   - "2"
 authors:
-  - admin
-  - Li An
   - Fengping Luo
+  - admin
+  - Amrish Thapa
   - Bin Yu
-doi: https://doi.org/10.1093/ageing/afaa271
-publication: "Age and Ageing "
+doi: https://www.sciencedirect.com/science/article/abs/pii/S0165032721000355
+publication: Journal of Affective Disorders
 abstract: >-
-  Objective
+  Background
 
-  This study investigated whether loneliness or social isolation is associated with the onset of functional disability over 4 years among Chinese older populations.
-
-
-  Setting and Subjects
-
-  This study used data from the China Health and Retirement Longitudinal Study (CHARLS). Functional status was assessed by activities of daily living (ADL) and instrumental activities of daily living (IADL). Analyses were conducted with data from two waves (2011 and 2015) and were restricted to those respondents aged 50 and older and free of functional disability at baseline [n = 5,154, mean age (SD) = 60.72 (7.51); male, 52.3%].
+  Most studies exploring the association between social isolation and depression tend to focus on Western countries. The primary aim of this longitudinal study was to examine the association between social isolation and depression onset among middle-aged and older adults in China.
 
 
-  Method
+  Methods
 
-  Social isolation, loneliness and covariates were measured at baseline. Follow-up measures of new-onset ADL and IADL disability were obtained 4 years later. We stratified the sample by gender, and then used binary logistic regressions to evaluate the associations between baseline isolation, loneliness and new-onset ADL and IADL disability.
+  Data on 6,817 participants (mean age = 57.91, SD = 8.77; men, 52.1%) from the first and fourth waves of the China Health and Retirement Longitudinal Study (CHARLS) were analyzed. Binary logistic regressions were used to evaluate the association between social isolation and depression onset. The moderating effects of socioeconomic status (education) and gender differences were also examined.
 
 
   Results
 
-  For women, baseline social isolation was significantly associated with new-onset ADL (OR = 1.18, 95% CI = 1.07–1.30) and IADL (OR = 1.11, 95% CI = 1.01–1.21) disability; no significant association between loneliness and ADL or IADL disability was found. For men, neither social isolation nor loneliness was found to be significantly associated with ADL or IADL disability.
+  Social isolation was significantly associated with depression onset (OR = 1.24, 95% CI = 1.10–1.41). Compared to men with lower education (OR = 0.97, 95% CI = 0.77–1.23), those with higher education (OR = 1.91, 95% CI = 1.40–2.60) exhibited a greater association between social isolation and depression onset. Moderating effect of education was not found for women.
 
 
-  Conclusion
+  Limitations
 
-  This longitudinal study found that social isolation, rather than loneliness, was significantly associated with functional disability over 4 years among women (but not men) in China. These findings expand our knowledge about the association between social relationships and functional status among non-Western populations.
+  Depression were self-reported, which might be less reliable than clinical interview.
+
+
+  Conclusions
+
+  Our results suggested that high level of social isolation was significantly associated with a higher incidence of depression among middle-aged and older adults in China. Education played a moderating role in this association for men rather than women.
 draft: false
 featured: false
 image:
