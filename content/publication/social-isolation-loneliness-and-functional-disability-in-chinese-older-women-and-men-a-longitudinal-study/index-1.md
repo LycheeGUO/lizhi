@@ -25,11 +25,9 @@ abstract: >-
 
   Social isolation, loneliness and covariates were measured at baseline. Follow-up measures of new-onset ADL and IADL disability were obtained 4 years later. We stratified the sample by gender, and then used binary logistic regressions to evaluate the associations between baseline isolation, loneliness and new-onset ADL and IADL disability.
 
-
   Results:
 
   For women, baseline social isolation was significantly associated with new-onset ADL (OR = 1.18, 95% CI = 1.07–1.30) and IADL (OR = 1.11, 95% CI = 1.01–1.21) disability; no significant association between loneliness and ADL or IADL disability was found. For men, neither social isolation nor loneliness was found to be significantly associated with ADL or IADL disability.
-
 
   Conclusion:
 
@@ -39,10 +37,7 @@ featured: false
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: ture
-summary: >
-  This study investigated whether loneliness or social isolation is associated
-  with the onset of functional disability over 4 years among Chinese older
-  populations. 
+  preview_only: true
+summary: ""
 date: 2023-03-17T09:41:39.776Z
 ---
