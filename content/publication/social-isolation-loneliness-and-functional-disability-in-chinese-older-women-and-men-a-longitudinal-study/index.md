@@ -34,9 +34,8 @@ abstract: >-
   Conclusion:
 
   This longitudinal study found that social isolation, rather than loneliness, was significantly associated with functional disability over 4 years among women (but not men) in China. These findings expand our knowledge about the association between social relationships and functional status among non-Western populations.
-  
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.jpg
   focal_point: Smart
