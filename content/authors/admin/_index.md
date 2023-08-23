@@ -43,4 +43,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Hello, I am a passionate researcher who aims to improve the health and well-being of older people through cognitive neuroscience, social determinants, and imaging analysis. I am always eager to learn new things and collaborate with other researchers who share my interests. If you are interested in my research or want to collaborate with me, please feel free to contact me at glz1997@tju.edu.cn.
+Hello, I am a passionate researcher who aims to improve the health and well-being of older people through cognitive neuroscience, social determinants, and imaging analysis. I am always eager to learn new things and collaborate with other researchers who share my interests. If you are interested in my research or want to collaborate with me, please feel free to contact me at [guolz@link.cuhk.edu.hk](mailto:guolz@link.cuhk.edu.hk).
