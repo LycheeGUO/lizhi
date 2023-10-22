@@ -9,7 +9,7 @@ authors:
   - Fengping Luo
   - Ningcan Gao
   - Bin Yu
-doi: https://www.sciencedirect.com/science/article/pii/S0167494321000522
+doi: https://doi.org/10.1016/j.archger.2021.104390
 publication: "*Archives of Gerontology and Geriatrics*"
 abstract: >-
   Objectives
