@@ -9,7 +9,7 @@ authors:
   - Amrish Thapa
   - Bin Yu
 doi: https://doi.org/10.1016/j.jad.2021.01.022
-publication: Journal of Affective Disorders
+publication: "*Journal of Affective Disorders*"
 abstract: >-
   Background
 
