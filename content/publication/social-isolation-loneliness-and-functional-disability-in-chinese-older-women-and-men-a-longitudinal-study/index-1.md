@@ -35,7 +35,7 @@ abstract: >-
 
   Our results suggested that high level of social isolation was significantly associated with a higher incidence of depression among middle-aged and older adults in China. Education played a moderating role in this association for men rather than women.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
