@@ -11,7 +11,7 @@ authors:
   - Fengping Luo
   - Bin Yu
 doi: " https://doi.org/10.1002/gps.5909"
-publication: International Journal of Geriatric Psychiatry
+publication: "*International Journal of Geriatric Psychiatry*"
 abstract: >-
   Background
 
