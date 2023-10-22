@@ -9,6 +9,7 @@ authors:
   - Fengping Luo
   - Ningcan Gao
   - Bin Yu
+doi: https://www.sciencedirect.com/science/article/pii/S0167494321000522
 publication: "*Archives of Gerontology and Geriatrics*"
 abstract: >-
   Objectives
@@ -37,5 +38,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-08-13T10:18:14.655Z
+date: 2021-03-08T10:18:14.655Z
 ---
