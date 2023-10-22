@@ -2,7 +2,6 @@
 title: Dyadic effects of cognitive function on depressive symptoms among
   middle‐aged and older Chinese couples
 publication_types:
-  - "0"
   - "2"
 authors:
   - Yujin Li
@@ -38,5 +37,5 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2023-10-22T09:52:55.646Z
+date: 2023-04-08T09:52:55.646Z
 ---
