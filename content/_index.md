@@ -189,9 +189,9 @@ sections:
       address:
         street: Shatin, NT
         city: Hong Kong SAR
-        region: The People's Republic of China
+        region: 
         postcode: ' '
-        country: The People's Republic of China
+        country: Hong Kong SAR
         country_code: CN
       coordinates:
         latitude: '22.414121966034276'
