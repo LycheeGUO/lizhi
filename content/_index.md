@@ -188,10 +188,10 @@ sections:
    #   appointment_url: 'https://calendly.com'
       address:
         street: Shatin, NT
-        city: Hong Kong SAR
+        city: Hong Kong
         region: 
         postcode: ' '
-        country: 
+        country:SAR
         country_code: HK
       coordinates:
         latitude: '22.414121966034276'
