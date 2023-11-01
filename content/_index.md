@@ -191,8 +191,8 @@ sections:
         city: Hong Kong SAR
         region: 
         postcode: ' '
-        country: Hong Kong SAR
-        country_code: CN
+        country: 
+        country_code: HK
       coordinates:
         latitude: '22.414121966034276'
         longitude: '114.2083301337338'
