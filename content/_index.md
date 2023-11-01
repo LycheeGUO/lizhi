@@ -190,7 +190,7 @@ sections:
         street: Shatin, NT
         city: Hong Kong SAR
         region: The People's Republic of China
-        postcode: '999077'
+        postcode: ' '
         country: The People's Republic of China
         country_code: CN
       coordinates:
