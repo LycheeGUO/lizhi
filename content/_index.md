@@ -154,7 +154,7 @@ sections:
           tag: '*'
         - name: Social Relationship
           tag: Social Relationship
-        - name: Cognitive Intervention
+        - name: Brain Stimulation
           tag: PBM
         - name: Other
           tag: Demo
