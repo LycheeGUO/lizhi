@@ -49,7 +49,7 @@ sections:
           date_end: ''
           description:  |2-
               * Major: Psychology
-              * Supervisor: Professor Chan Sui Yin, Agnes
+             
         - title: Research Assistant 
           company: Shenzhen Bay Laboratory 
           company_url: 'https://www.szbl.ac.cn/'
@@ -71,7 +71,7 @@ sections:
           date_end: '2022-01-01'
           description: |2-
               * Major: Applied Psychology
-              * Supervisor: Dr. Bin Yu
+              * Supervisor: Prof. Bin Yu
         - title: Bachelor Student
           company: Jilin University
           company_url: 'https://www.jlu.edu.cn/'
