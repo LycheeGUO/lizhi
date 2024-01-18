@@ -6,7 +6,7 @@ featured: false
 tags:
   - PBM
 image:
-  filename: featured.png
+  filename: featured.gif
   focal_point: Smart
   preview_only: false
 ---
