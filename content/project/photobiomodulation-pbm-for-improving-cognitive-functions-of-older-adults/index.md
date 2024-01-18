@@ -8,7 +8,7 @@ tags:
 image:
   filename: featured.gif
   focal_point: Smart
-  preview_only: false
+
 ---
 Photobiomodulation (PBM) uses the delivery of light in the visible (400–700 nm) or near-infrared (700–1100 nm) range to stimulate or inhibit biological cell and tissue function \[5]. During PBM, the cytochrome c oxidase activities are increased due to near-infrared light absorption, increasing electron transport, mitochondrial membrane potential, and adenosine triphosphate production, thus boosting oxygen metabolism and utilization rate, and energy production in the cells. In human studies, increased cerebral concentrations of oxidized cytochrome c oxidase, oxygenated hemoglobin, and total hemoglobin, and increased strength of electrophysiological oscillations were observed during and after PBM. Together, these results suggested that PBM may improve cell metabolism. 
 
