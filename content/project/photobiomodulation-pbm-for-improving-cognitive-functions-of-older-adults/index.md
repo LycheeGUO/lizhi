@@ -6,7 +6,7 @@ featured: false
 tags:
   - PBM
 image:
-  filename: featured.gif
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 ---
