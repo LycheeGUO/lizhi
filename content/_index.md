@@ -44,7 +44,7 @@ sections:
           company: The Chinese University of Hong Kong
           company_url: 'https://www.cuhk.edu.hk/'
           company_logo: org-cuhk
-          location: Hongkong SAR, CN
+          location: Hongkong SAR
           date_start: '2023-08-01'
           date_end: ''
           description:  |2-
