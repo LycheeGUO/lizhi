@@ -26,13 +26,13 @@ organizations:
     url: https://www.cuhk.edu.hk/chinese/index.html
 education:
   courses:
-    - course: PhD in Psychology
+    - course: Ph.D in Psychology
       institution: The Chinese University of Hong Kong, 2023-2027
       year: ""
-    - course: MS in Applied Psychology
+    - course: M.ed in Applied Psychology
       institution: Tianjin University, 2019-2022
       year: ""
-    - course: BE in Material Forming & Control Engineering
+    - course: B.E in Material Forming & Control Engineering
       institution: Jilin University, 2014-2018
       year: ""
 superuser: true
