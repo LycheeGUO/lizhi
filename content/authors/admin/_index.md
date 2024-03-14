@@ -29,7 +29,7 @@ education:
     - course: Ph.D in Psychology
       institution: The Chinese University of Hong Kong, 2023-2027
       year: ""
-    - course: M.ed in Applied Psychology
+    - course: M.Ed in Applied Psychology
       institution: Tianjin University, 2019-2022
       year: ""
     - course: B.E in Material Forming & Control Engineering
