@@ -1,7 +1,7 @@
 ---
 title: "[18F]-D3FSP amyloid-β PET imaging in elderly adults and Alzheimer’s disease"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Anqi Li
   - Ruiyue Zhao
