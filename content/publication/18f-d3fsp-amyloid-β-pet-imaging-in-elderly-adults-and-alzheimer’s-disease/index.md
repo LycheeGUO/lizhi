@@ -4,9 +4,24 @@ publication_types:
   - "2"
 authors:
   - Anqi Li
-  - ...
+  - Ruiyue Zhao
+  - Mingkai Zhang
+  - Pan Sun
+  - Yue Cai
+  - Lin Liu
+  - Guoyu Lan
+  - Yalin Zhu
+  - Xuhui Chen
   - admin
-  - ...
+  - Yajing Zhou
+  - Kun Sun
+  - Lin Zhu
+  - Hank F. Kung
+  - Qingyong Wang
+  - Linsen Xu
+  - Ying Han
+  - Xinlu Wang
+  - Tengfei Guo
 doi: https://doi.org/10.1002/alz.079352
 publication: "Alzheimer's & Dementia®: The Journal of the Alzheimer's Association"
 abstract: >-
