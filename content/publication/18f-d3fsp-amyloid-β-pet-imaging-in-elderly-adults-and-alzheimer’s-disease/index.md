@@ -23,7 +23,7 @@ authors:
   - Xinlu Wang
   - Tengfei Guo
 doi: https://doi.org/10.1002/alz.079352
-publication: "*Alzheimer's & Dementia®: The Journal of the Alzheimer's Association*"
+publication: "* Alzheimer's & Dementia*"
 abstract: >-
   Background
 
