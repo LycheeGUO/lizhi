@@ -24,6 +24,8 @@ authors:
   - Linsen Xu
   - Qingyong Wang
   - Ying Han
+doi: https://doi.org/10.1002/alz.077578
+publication: "*Alzheimer's & Dementia*"
 abstract: >-
   Background
 
