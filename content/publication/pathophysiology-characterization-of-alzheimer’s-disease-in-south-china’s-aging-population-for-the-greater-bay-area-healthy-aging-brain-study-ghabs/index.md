@@ -31,7 +31,7 @@ authors:
   - Ying Han
   - Tengfei Guo
 doi: https://doi.org/10.21203/rs.3.rs-3503581/v1
-publication: research square
+publication: "*Research Square*"
 abstract: >-
   INTRODUCTION: The Guangdong-Hong Kong-Macao Greater-Bay-Area of South China
   has an 86 million population and faces a significant challenge of Alzheimer’s
