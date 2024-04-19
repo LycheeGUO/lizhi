@@ -2,7 +2,7 @@
 title: "Pathophysiology characterization of Alzheimer’s disease in South China’s
   Aging Population: for the Greater-Bay-Area Healthy Aging Brain Study (GHABS)"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Zhen Liu
   - Dai Shi
@@ -31,7 +31,7 @@ authors:
   - Ying Han
   - Tengfei Guo
 doi: https://doi.org/10.21203/rs.3.rs-3503581/v1
-publication: "*Research Square*"
+publication: "*Alzheimer's Research & Therapy*"
 abstract: >-
   INTRODUCTION: The Guangdong-Hong Kong-Macao Greater-Bay-Area of South China
   has an 86 million population and faces a significant challenge of Alzheimer’s
