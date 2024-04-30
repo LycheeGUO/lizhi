@@ -71,7 +71,7 @@ sections:
           date_end: '2022-01-01'
           description: |2-
               * Major: Applied Psychology
-              * Supervisor: Prof. Bin Yu
+              * Supervisor: [Prof. Bin Yu](https://bin-team.netlify.app/)
         - title: Bachelor Student
           company: Jilin University
           company_url: 'https://www.jlu.edu.cn/'
