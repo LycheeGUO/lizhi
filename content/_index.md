@@ -62,7 +62,7 @@ sections:
               * Cognitive Assessment
               * Imaging Data Analysis
               * Biomarkers Analysis
-              * Supervisor: Prof. Tengfei Guo
+              * Supervisor: [Prof. Tengfei Guo](http://guotf-lab.szbl.ac.cn/)
         - title: Master Student
           company: Tianjin University
           company_url: 'http://www.tju.edu.cn/'
