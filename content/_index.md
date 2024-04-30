@@ -49,7 +49,7 @@ sections:
           date_end: ''
           description:  |2-
               * Major: Psychology
-              * Supervisor: [Prof. Agnes Sui-Yin CHAN](https://www.psy.cuhk.edu.hk/index.php/?option=com_sppagebuilder&view=page&id=86)
+              * Supervisor: Prof. Agnes Sui-Yin CHAN
         - title: Research Assistant 
           company: Shenzhen Bay Laboratory 
           company_url: 'https://www.szbl.ac.cn/'
