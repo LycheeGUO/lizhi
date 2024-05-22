@@ -18,7 +18,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 doi: 10.1111/ajag.13329
-publication: Australasian Journal on Ageing
+publication: "*Australasian Journal on Ageing*"
 abstract: >-
   Abstract
 
