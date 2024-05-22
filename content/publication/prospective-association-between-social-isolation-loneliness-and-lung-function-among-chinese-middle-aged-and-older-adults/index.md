@@ -14,6 +14,9 @@ authors:
   - Shuo Zhang
   - Kaiqiang Zhang
   - Bin Yu
+author_notes:
+  - Equal contribution
+  - Equal contribution
 draft: false
 featured: false
 image:
