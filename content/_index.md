@@ -195,7 +195,7 @@ sections:
       coordinates:
         latitude: '22.414121966034276'
         longitude: '114.2083301337338'
-      directions:The Chinese University of Hong Kong
+      directions: The Chinese University of Hong Kong
   #  office_hours:
  #       - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
