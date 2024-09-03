@@ -49,7 +49,6 @@ sections:
           date_end: ''
           description:  |2-
               * Major: Psychology
-              * Supervisor: [Prof. Hanna Lu](https://thebrainx.com/)
         - title: Research Assistant 
           company: Shenzhen Bay Laboratory 
           company_url: 'https://www.szbl.ac.cn/'
