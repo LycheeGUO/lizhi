@@ -49,6 +49,7 @@ sections:
           date_end: ''
           description:  |2-
               * Major: Psychology
+              * Supervisor: Prof. Helene Hoi-Lam FUNG, Prof. Hanna Lu
         - title: Research Assistant 
           company: Shenzhen Bay Laboratory 
           company_url: 'https://www.szbl.ac.cn/'
