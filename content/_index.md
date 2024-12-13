@@ -49,7 +49,7 @@ sections:
           date_end: ''
           description:  |2-
               * Major: Psychology
-              * Supervisor: Prof. Helene Hoi-Lam FUNG, Prof. Hanna Lu
+              * Supervisor: [Prof. Helene Hoi-Lam FUNG](https://cumotivationandemotion.psy.cuhk.edu.hk/blog/), [Prof. Hanna Lu](https://thebrainx.com/)
         - title: Research Assistant 
           company: Shenzhen Bay Laboratory 
           company_url: 'https://www.szbl.ac.cn/'
