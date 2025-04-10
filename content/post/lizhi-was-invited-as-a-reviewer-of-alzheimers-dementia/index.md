@@ -1,5 +1,5 @@
 ---
-title: Lizhi was invited as a reviewer of Alzheimer's & Dementia
+title: Lizhi was invited as a reviewer of Depression and Anxiety
 date: 2025-04-10T14:13:05.229Z
 draft: false
 featured: false
@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Lizhi was invited as a reviewer of ***Alzheimer's & Dementia: The Journal of the Alzheimer's Association**.*
+Lizhi was invited as a reviewer of ***Depression and Anxiety***
