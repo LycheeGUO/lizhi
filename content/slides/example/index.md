@@ -1,95 +1,64 @@
 ---
-title: Social Isolation, Loneliness, and Health
+title: "Social Isolation and Health"
 date: 2023-08-20
-summary: A CUHK-style presentation on psychosocial health determinants
-draft: false
 slides:
-  theme: cuhk
-  highlight_style: github
-authors: [Lizhi Guo]
-tags: [Public Health, Mental Health, Epidemiology]
-categories: [Social Determinants of Health]
+  theme: white
+  highlight_style: pygments
+params:
+  custom_css: |
+    .reveal .slides {
+      background-color: #f0f0f0 !important;
+    }
+    h1, h2 {
+      color: #FFD700 !important; /* 金色 */
+    }
+    p, li, td {
+      color: #800080 !important; /* 紫色 */
+    }
 ---
 
-.center[
-# Social Isolation, Loneliness, and Health  
-### *Department of Psychology*  
-#### The Chinese University of Hong Kong  
-![CUHK Logo](https://www.cuhk.edu.hk/english/images/cuhk_logo_2x.png)  
-]
-
----
-
-### Key Definitions  
-#### Social Isolation  
-> "Objective lack of social connections" (Berkman & Kawachi, 2014)  
-- Quantifiable contact frequency  
-- Network size metrics  
-
-#### Loneliness  
-> "Subjective distress from unfulfilled relationships" (Hawkley & Cacioppo, 2010)  
-- Perceived vs actual isolation  
-- UCLA Loneliness Scale measures  
+# Social Isolation and Health  
+![CUHK Logo](https://www.cuhk.edu.hk/english/images/cuhk_logo_2x.png){width=150px}  
+### Department of Public Health  
 
 ---
 
-### Health Impacts  
-#### .cuhk-red[Physical Health]  
-- 29% ↑ cardiovascular risk (Holt-Lunstad et al., 2015)  
-- Elevated inflammatory markers (IL-6, CRP)  
-- Impaired immune response (Pressman et al., 2005)  
+## Key Definitions
 
-#### .cuhk-gold[Mental Health]  
+​**​Social Isolation​**​  
+- Objective lack of social connections  
+- Measured by:  
+  - Contact frequency  
+  - Network size  
+
+​**​Loneliness​**​  
+- Subjective feeling of isolation  
+- UCLA Loneliness Scale  
+
+---
+
+## Health Impacts
+
+### Physical Health  
+- ↑29% cardiovascular risk  
+- Elevated inflammation markers  
+
+### Mental Health  
 - 2× depression risk  
 - Accelerated cognitive decline  
-- 26% ↑ dementia risk  
 
 ---
 
-### Biological Mechanisms  
-.grid[
-.column[
-#### Stress Pathway  
-- Chronic HPA axis activation  
-- Cortisol dysregulation  
-- Telomere shortening  
-]  
-.column[
-#### Behavioral Pathway  
-- Sleep fragmentation  
-- Medication non-adherence  
-- ↓ Physical activity  
-]  
-]
+## Interventions
+
+| Strategy | Population | Effect |
+|----------|-----------|--------|
+| Social Prescribing | Elderly | d=0.42 |
+| Peer Support | Chronic Illness | OR 1.32 |
 
 ---
 
-### Evidence-Based Interventions  
-| Strategy | Target Population | Effect Size |
-|----------|------------------|------------|
-| Social prescribing | Elderly | d=0.42* |
-| Peer support groups | Chronic illness | OR 1.32 |
-| Digital inclusion | Rural residents | RR 0.71 |
+## References
 
-.cuhk-footnote[*p<0.05, meta-analysis of 12 RCTs]
-
----
-
-### CUHK Research Spotlight  
-.center[
-![Research infographic](https://example.com/cuhk-study.jpg)  
-.cuhk-cite[Our longitudinal study (n=2,487) shows...]  
-]
-
----
-
-### References  
-.bibliography[
-1. Berkman, L. F., & Kawachi, I. (2014). *Social epidemiology*. OUP.  
-2. Holt-Lunstad et al. (2015). Loneliness and mortality risk. *Perspect Psychol Sci*  
-3. CUHK Centre for Health Behaviours (2023). *Annual Report*  
-]
-
-.center[
-.cuhk-acknowledgement[Funding: RGC GRF #1234567]  
-]
+1. Berkman & Kawachi (2014)  
+2. Holt-Lunstad et al. (2015)  
