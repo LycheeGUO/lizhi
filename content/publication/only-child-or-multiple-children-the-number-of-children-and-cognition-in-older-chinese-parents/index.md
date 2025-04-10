@@ -1,8 +1,7 @@
 ---
 title: Only child or multiple children? The number of children and cognition in
-  older Chinese parents.
+  older Chinese parents
 publication_types:
-  - "0"
   - "2"
 authors:
   - Yunlong Song
