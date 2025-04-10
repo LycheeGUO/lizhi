@@ -4,14 +4,13 @@ date: 2023-08-20
 summary: A CUHK-style presentation on psychosocial health determinants
 draft: false
 slides:
-  theme: cuhk  # 使用CUHK主题色（红/金）
+  theme: cuhk
   highlight_style: github
 authors: [Lizhi Guo]
 tags: [Public Health, Mental Health, Epidemiology]
 categories: [Social Determinants of Health]
 ---
 
-<!-- 首页标题页 -->
 .center[
 # Social Isolation, Loneliness, and Health  
 ### *Department of Psychology*  
