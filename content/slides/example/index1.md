@@ -6,7 +6,7 @@ draft: false
 slides:
   theme: cuhk  # 使用CUHK主题色（红/金）
   highlight_style: github
-authors: [Your Name]
+authors: [Lizhi Guo]
 tags: [Public Health, Mental Health, Epidemiology]
 categories: [Social Determinants of Health]
 ---
@@ -14,7 +14,7 @@ categories: [Social Determinants of Health]
 <!-- 首页标题页 -->
 .center[
 # Social Isolation, Loneliness, and Health  
-### *Department of Public Health*  
+### *Department of Psychology*  
 #### The Chinese University of Hong Kong  
 ![CUHK Logo](https://www.cuhk.edu.hk/english/images/cuhk_logo_2x.png)  
 ]
