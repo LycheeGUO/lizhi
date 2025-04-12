@@ -9,7 +9,7 @@ authors:
   - admin
   - Andre Strydom
 doi: https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.70135
-publication: Alzheimer’s & Dementia
+publication: "*Alzheimer’s & Dementia*"
 publication_short: ""
 abstract: Individuals with Down syndrome (DS) are at high risk of Alzheimer's
   disease (AD), displaying AD pathology similar to the general population. This
