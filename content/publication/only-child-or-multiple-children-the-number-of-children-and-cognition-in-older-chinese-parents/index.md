@@ -8,8 +8,8 @@ authors:
   - admin
   - Hui Zhu
   - Bin Yu
-publication: Australas Journal on Ageing
-publication_short: Australas J Ageing
+publication: "*Australas Journal on Ageing*"
+publication_short: ""
 abstract: >+
   Objectives
 
