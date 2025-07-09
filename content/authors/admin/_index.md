@@ -1,6 +1,6 @@
 ---
 title: Lizhi Guo（郭立志）
-role: PhD Student
+role: PhD Candidate
 avatar_filename: avatar.png
 bio: My research interests include Cognition, Cognitive reserve, Social
   determinants, and Imaging Analysis.
