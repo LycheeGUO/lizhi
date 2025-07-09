@@ -30,6 +30,8 @@ education:
     - course: Ph.D in Psychology
       institution: The Chinese University of Hong Kong, 2023-2027
       year: ""
+    - course: Visiting PhD student
+      institution: King's College London, 2025-2026
     - course: M.Ed in Applied Psychology
       institution: Tianjin University, 2019-2022
       year: ""
