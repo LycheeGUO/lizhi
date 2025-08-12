@@ -1,0 +1,47 @@
+---
+title: "The moderating effect of cognitive reserve on the association between
+  neuroimaging biomarkers and cognition: A systematic review"
+publication_types:
+  - "0"
+  - "2"
+authors:
+  - admin
+  - Yajing Zhou
+  - Hanna Lu
+  - Helene H. Fung
+doi: https://www.sciencedirect.com/science/article/pii/S0197458025001307
+publication: Neurobiology of Aging
+abstract: This systematic review aims to investigate the moderating effects of
+  cognitive reserve (CR) on the relationships between cognitive function and
+  multimodal Alzheimer’s disease (AD)-signatured brain changes, measured by
+  positron emission tomography (PET), structural magnetic resonance imaging
+  (sMRI) and functional MRI (fMRI). Through a comprehensive search of PubMed,
+  Scopus, and Web of Science, we identified 55 eligible studies examining the
+  moderating effect of CR on the relationship between neuroimaging biomarkers
+  and cognitive outcomes. CR measurements include sociobehavioral proxies (e.g.,
+  education, leisure activities), residual approaches, and functional imaging
+  approaches. Findings were mixed. Of the fifty-five studies, 41 studies
+  reported a protective effect of CR, suggesting its buffering effect against
+  cognitive decline or AD progression during ageing. However, eleven studies
+  reported no interaction between CR and neuroimaging biomarkers. Six studies
+  suggested a detrimental effect of CR in the middle-to-late stages of the
+  disease [e.g., mild cognitive impairment (MCI) and AD] (three studies reported
+  both protective and detrimental effects). The discrepancies may reflect that
+  the influence of CR on the association between neuroimaging biomarkers and
+  cognitive function depends on disease stage. In early stages, it exhibits
+  protective effects, but as pathology accumulates, it may accelerate cognitive
+  decline. This review revealed CR has heterogeneous effects on AD progression.
+  We preliminarily identified a “critical point” for CR within the continuum
+  between cognitively unimpaired (CU) and MCI, although its precise pathological
+  determinants require further clarification. Establishing standardized CR
+  metrics and conducting longitudinal biomarker-integrated studies are critical
+  to pinpoint optimal intervention windows for maximizing CR’s protective
+  effects.
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2025-07-30T10:33:25.472Z
+---
