@@ -2,7 +2,6 @@
 title: "The moderating effect of cognitive reserve on the association between
   neuroimaging biomarkers and cognition: A systematic review"
 publication_types:
-  - "0"
   - "2"
 authors:
   - admin
@@ -10,7 +9,7 @@ authors:
   - Hanna Lu
   - Helene H. Fung
 doi: https://www.sciencedirect.com/science/article/pii/S0197458025001307
-publication: Neurobiology of Aging
+publication: "*Neurobiology of Aging*"
 abstract: This systematic review aims to investigate the moderating effects of
   cognitive reserve (CR) on the relationships between cognitive function and
   multimodal Alzheimer’s disease (AD)-signatured brain changes, measured by
