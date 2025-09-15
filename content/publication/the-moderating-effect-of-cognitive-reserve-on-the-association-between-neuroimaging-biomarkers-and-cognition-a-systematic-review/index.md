@@ -8,7 +8,7 @@ authors:
   - Yajing Zhou
   - Hanna Lu
   - Helene H. Fung
-doi: https://www.sciencedirect.com/science/article/pii/S0197458025001307
+doi: 10.1016/j.neurobiolaging.2025.07.016
 publication: "*Neurobiology of Aging*"
 abstract: This systematic review aims to investigate the moderating effects of
   cognitive reserve (CR) on the relationships between cognitive function and
