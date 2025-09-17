@@ -193,9 +193,9 @@ sections:
         country:
         country_code: 
       coordinates:
-        latitude: '22.41903'
-        longitude: '114.20655'
-      directions: The Chinese University of Hong Kong
+        latitude: '22.415815479596894'
+        longitude: '114.20721093997439'
+      directions: Sino building, The Chinese University of Hong Kong
   #  office_hours:
  #       - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
