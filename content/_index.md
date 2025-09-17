@@ -195,7 +195,7 @@ sections:
       coordinates:
         latitude: '22.415815479596894'
         longitude: '114.20721093997439'
-      directions: Sino building, The Chinese University of Hong Kong
+      directions: Sino Building, The Chinese University of Hong Kong
   #  office_hours:
  #       - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
