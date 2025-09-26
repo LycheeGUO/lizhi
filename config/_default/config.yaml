@@ -1,7 +1,6 @@
-# Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# ==============================
+# Hugo Configuration for Lizhi Guo
+# ==============================
 
 title: Lizhi Guo(郭立志) # Website name
 baseURL: 'https://example.com/' # Website URL
@@ -73,3 +72,32 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+############################
+## NETLIFY CMS CONFIG
+############################
+
+params:
+  netlify_cms:
+    # 指定 CMS 后台路径
+    admin_path: "admin"
+    # 启用 Git Gateway
+    git_gateway:
+      enabled: true
+      branch: main   # 修改为你仓库默认分支
+    media_folder: "static/uploads"
+    public_folder: "/uploads"
+
+# Optional: Collections can be customized via `static/admin/config.yml`:
+# Example for CMS content:
+# collections:
+#   - name: "blog"
+#     label: "Blog Posts"
+#     folder: "content/blog"
+#     create: true
+#     slug: "{{slug}}"
+#     fields:
+#       - { label: "Title", name: "title", widget: "string" }
+#       - { label: "Publish Date", name: "date", widget: "datetime" }
+#       - { label: "Body", name: "body", widget: "markdown" }
+#       - { label: "Tags", name: "tags", widget: "list" }
