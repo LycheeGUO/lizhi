@@ -101,3 +101,11 @@ params:
 #       - { label: "Publish Date", name: "date", widget: "datetime" }
 #       - { label: "Body", name: "body", widget: "markdown" }
 #       - { label: "Tags", name: "tags", widget: "list" }
+footer:
+  copyright:
+    notice: '© {year} Lizhi Guo(郭立志). All rights reserved.'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
