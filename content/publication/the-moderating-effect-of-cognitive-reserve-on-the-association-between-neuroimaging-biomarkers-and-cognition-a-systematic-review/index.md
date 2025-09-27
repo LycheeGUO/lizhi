@@ -39,7 +39,7 @@ abstract: This systematic review aims to investigate the moderating effects of
 draft: false
 featured: true
 image:
-  filename: featured.jpg
+  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0197458025001307-gr1.jpg
   focal_point: Smart
   preview_only: false
 summary: |-
