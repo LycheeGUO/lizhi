@@ -24,6 +24,7 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    -p ath: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
 
 ############################
 ## ADVANCED
