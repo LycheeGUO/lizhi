@@ -5,8 +5,7 @@ avatar_filename: avatar.png
 bio: My research interests include Cognition, Cognitive reserve, Social
   determinants, and Imaging Analysis.
 interests:
-  - Cognitive reserve
-  - Cognitive Neuroscience
+  - Cognitive Reserve
   - Social determinant
   - Neuroimaging
 social:
@@ -46,4 +45,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Lizhi is a PhD candidate dedicated to advancing the health and well-being of older adults through cognitive neuroscience, social determinants, and imaging analysis. Always eager to learn and collaborate, Lizhi welcomes connections with fellow researchers who share similar interests. If you are interested in Lizhi's research or would like to explore collaboration opportunities, please feel free to contact via email at [guolz@link.cuhk.edu.hk](mailto:guolz@link.cuhk.edu.hk).
+Lizhi is a PhD candidate dedicated to  the health and well-being of older adults through cognitive neuroscience, social determinants, and imaging analysis. Always eager to learn new things and deepen expertise in the field, Lizhi is enthusiastic about exploring innovative approaches in aging research. For more information, please contact Lizhi at [guolz@link.cuhk.edu.hk](mailto:guolz@link.cuhk.edu.hk).[](<mailto: guolz@link.cuhk.edu.hk>)
