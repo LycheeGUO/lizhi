@@ -37,9 +37,9 @@ abstract: This systematic review aims to investigate the moderating effects of
   to pinpoint optimal intervention windows for maximizing CR’s protective
   effects.
 draft: false
-featured: false
+featured: true
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2025-07-30T10:33:25.472Z
