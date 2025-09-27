@@ -42,5 +42,9 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+summary: |-
+  CR buffers early AD cognitive impact from neuroimaging biomarkers.
+  High CR may lead to sharper cognitive decline in later AD stages.
+  CR’s “critical point” may lie between CU and MCI stages.
 date: 2025-07-30T10:33:25.472Z
 ---
