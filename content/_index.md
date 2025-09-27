@@ -153,6 +153,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Cognitive Reserve
+          tag: CR
         - name: Social Relationship
           tag: Social Relationship
         - name: Other
