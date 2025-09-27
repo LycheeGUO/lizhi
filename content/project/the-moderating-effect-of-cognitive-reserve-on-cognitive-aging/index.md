@@ -3,7 +3,7 @@ title: "The moderating effect of cognitive reserve on cognitive aging "
 date: 2025-09-27T12:47:54.091Z
 summary: ""
 draft: false
-featured: false
+featured: true
 tags:
   - CR
 image:
