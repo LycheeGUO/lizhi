@@ -46,4 +46,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Hello, I am a passionate researcher who aims to improve the health and well-being of older people through cognitive neuroscience, social determinants, and imaging analysis. I am always eager to learn new things and collaborate with other researchers who share my interests. If you are interested in my research or want to collaborate with me, please feel free to contact me at [guolz@link.cuhk.edu.hk](mailto:guolz@link.cuhk.edu.hk).
+Lizhi is a PhD candidate dedicated to advancing the health and well-being of older adults through cognitive neuroscience, social determinants, and imaging analysis. Always eager to learn and collaborate, Lizhi welcomes connections with fellow researchers who share similar interests. If you are interested in Lizhi's research or would like to explore collaboration opportunities, please feel free to contact via email at [guolz@link.cuhk.edu.hk](mailto:guolz@link.cuhk.edu.hk).
