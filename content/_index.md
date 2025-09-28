@@ -50,6 +50,16 @@ sections:
           description:  |2-
               * Major: Psychology
               * Supervisor: [Prof. Helene Hoi-Lam FUNG](https://cumotivationandemotion.psy.cuhk.edu.hk/blog/), [Prof. Hanna Lu](https://thebrainx.com/)
+        - title: PhD Student
+          company: King's College London
+          company_url: 'https://www.kcl.ac.uk'
+          company_logo: org-kcl
+          location: London
+          date_start: '2025-08-08'
+          date_end: '2026-02-07'
+          description:  |2-
+              * Major: Psychiatry
+              * Supervisor: [Prof. Dag Aarsland](https://www.kcl.ac.uk/people/dag-aarsland)
         - title: Research Assistant 
           company: Shenzhen Bay Laboratory 
           company_url: 'https://www.szbl.ac.cn/'
