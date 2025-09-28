@@ -50,7 +50,7 @@ sections:
           description:  |2-
               * Major: Psychology
               * Supervisor: [Prof. Helene Hoi-Lam FUNG](https://cumotivationandemotion.psy.cuhk.edu.hk/blog/), [Prof. Hanna Lu](https://thebrainx.com/)
-        - title: PhD Student
+        - title: Visiting PhD Student
           company: King's College London
           company_url: 'https://www.kcl.ac.uk'
           company_logo: org-kcl
