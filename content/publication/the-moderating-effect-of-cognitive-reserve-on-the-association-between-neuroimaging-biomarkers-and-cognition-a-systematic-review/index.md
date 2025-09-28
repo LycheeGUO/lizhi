@@ -38,6 +38,8 @@ abstract: This systematic review aims to investigate the moderating effects of
   effects.
 draft: false
 featured: true
+image:
+  filename: featured.gif
 summary: |-
   CR buffers early AD cognitive impact from neuroimaging biomarkers.
   High CR may lead to sharper cognitive decline in later AD stages.
