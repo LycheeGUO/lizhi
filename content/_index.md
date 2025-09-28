@@ -56,7 +56,7 @@ sections:
           company_logo: org-kcl
           location: London
           date_start: '2025-08-08'
-          date_end: '2026-02-07'
+          date_end: ''
           description:  |2-
               * Major: Psychiatry
               * Supervisor: [Prof. Dag Aarsland](https://www.kcl.ac.uk/people/dag-aarsland)
