@@ -39,7 +39,7 @@ abstract: This systematic review aims to investigate the moderating effects of
 draft: false
 featured: true
 image:
-  filename: ""
+  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0197458025001307-gr1.jpg
 summary: |-
   CR buffers early AD cognitive impact from neuroimaging biomarkers.
   High CR may lead to sharper cognitive decline in later AD stages.
