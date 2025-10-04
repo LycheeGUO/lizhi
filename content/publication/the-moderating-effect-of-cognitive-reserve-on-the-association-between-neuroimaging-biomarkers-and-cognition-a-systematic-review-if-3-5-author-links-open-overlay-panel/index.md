@@ -1,7 +1,6 @@
 ---
 title: "The moderating effect of cognitive reserve on the association between
-  neuroimaging biomarkers and cognition: A systematic review IF 3.5 Author links
-  open overlay panel"
+  neuroimaging biomarkers and cognition: A systematic review"
 publication_types:
   - "2"
 authors:
@@ -41,8 +40,12 @@ abstract: >
 draft: false
 featured: true
 image:
-  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0197458025001307-gr1.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+summary: |-
+  CR buffers early AD cognitive impact from neuroimaging biomarkers.
+  High CR may lead to sharper cognitive decline in later AD stages.
+  CR’s “critical point” may lie between CU and MCI stages.
 date: 2025-10-04T12:11:23.604Z
 ---
