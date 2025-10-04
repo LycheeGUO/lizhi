@@ -9,6 +9,8 @@ authors:
   - Yajing Zhou
   - Hanna Lu
   - Helene H. Fung
+publication: "*Neurobiology of Aging*"
+publication_short: NBA
 abstract: >
   This systematic review aims to investigate the moderating effects of cognitive
   reserve (CR) on the relationships between cognitive function and multimodal
