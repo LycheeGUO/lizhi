@@ -9,7 +9,7 @@ authors:
   - Hanna Lu
   - Helene H. Fung
 publication: "*Neurobiology of Aging*"
-publication_short: NBA
+publication_short: ""
 abstract: >
   This systematic review aims to investigate the moderating effects of cognitive
   reserve (CR) on the relationships between cognitive function and multimodal
